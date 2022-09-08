@@ -2,4 +2,4 @@
 
 
 ## LINK
-[PROJECT ] (https://project3p.netlify.app)
+[PROJECT C] (https://project3p.netlify.app)
