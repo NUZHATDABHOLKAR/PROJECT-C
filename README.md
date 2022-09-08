@@ -1,6 +1,6 @@
 # PROJECT-C
+ CLONE OF RODE.COM
 
-paytmclone
 ## LINK
 [RODE](https://project3p.netlify.app/)
 
