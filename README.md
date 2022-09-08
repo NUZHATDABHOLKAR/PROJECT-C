@@ -26,7 +26,7 @@ i hope you understand how to used tailwind
 
 
 ## LINK
-[RODE.COM CLONE](https://project1p.netlify.app/)
+[RODE.COM CLONE](https://project3p.netlify.app/)
 
 ## TIME
 7 HOUR 
