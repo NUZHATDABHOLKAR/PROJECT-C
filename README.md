@@ -1,5 +1,8 @@
 # PROJECT-C
 
-
+paytmclone
 ## LINK
-[PROJECT C] (https://project3p.netlify.app)
+[RODE](https://project3p.netlify.app/)
+
+## TIME
+10 HOUR 
