@@ -29,6 +29,6 @@ i hope you understand how to used tailwind
 [RODE.COM CLONE](https://project3p.netlify.app/)
 
 ## TIME
-7 HOUR 
+10 HOUR 
 
 
